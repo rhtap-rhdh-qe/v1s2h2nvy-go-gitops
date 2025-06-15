@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v1s2h2nvy-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/v1s2h2nvy-go
